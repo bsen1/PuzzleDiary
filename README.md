@@ -1,3 +1,3 @@
 # PuzzleDiary
 
-Deployed at: puzzlediary.netlify.app
+Deployed at: https://puzzlediary.netlify.app
